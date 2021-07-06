@@ -33,7 +33,7 @@ body {
     background-image: linear-gradient(#fb964b,#fd5031);
     padding: 20px 40px;
     color: #fff;
-    border-radius: 100px;
+    border-radius: 40px;
     
 }
 .top-right-clmn {
@@ -42,4 +42,28 @@ body {
 
 .top-right-clmn img {
     width: 100%;
+}
+
+.second-section {
+    display: flex;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    background-image: url(images/shapes/about-me-bg.png);
+    background-repeat: no-repeat;
+}
+
+.sec-left-clmn {
+    padding-left: 5%;
+    width: 50%;
+}
+
+.sec-left-clmn img {
+    width: 50%;
+}
+.contact-btn {
+    text-decoration: none;
+    background-image: linear-gradient(#fb964b,#fd5031);
+    padding: 20px 40px;
+    color: #fff;
+    border-radius: 40px;
 }
