@@ -13,13 +13,16 @@ body {
 .top-left-clmn {
     padding-left: 5%;
     width: 50%;
-    padding-top: 50px;
+    padding-top: 100px;
 }
 
 .top-left-clmn h1 {
-    font-size: 100px;
+    font-size: 80px;
 }
 
+.top-left-clmn p {
+    font-size: 30px;
+}
 .skip {
     color:#fb8e48;
 }
@@ -34,6 +37,7 @@ body {
     padding: 20px 40px;
     color: #fff;
     border-radius: 40px;
+    font-size: 25px;
     
 }
 .top-right-clmn {
@@ -47,13 +51,14 @@ body {
 .second-section {
     display: flex;
     padding-top: 70px;
-    padding-bottom: 70px;
     background-image: url(images/shapes/about-me-bg.png);
     background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
 }
 
 .sec-left-clmn {
-    padding-left: 5%;
+    padding-left: 10%;
     width: 50%;
 }
 
@@ -66,4 +71,19 @@ body {
     padding: 20px 40px;
     color: #fff;
     border-radius: 40px;
+    font-size: 25px;
+}
+
+.about-clmn h1 {
+    font-size: 70px;
+}
+
+.about-clmn {
+    padding-top: 100px;
+}
+
+.about-clmn p {
+    color: #000;
+    padding-bottom: 40px;
+    font-size: 25px;
 }
