@@ -17,7 +17,7 @@ body {
 }
 
 .top-left-clmn h1 {
-    font-size: 80px;
+    font-size: 70px;
 }
 
 .top-left-clmn p {
@@ -48,21 +48,22 @@ body {
     width: 100%;
 }
 
-.second-section {
+.about-section {
     display: flex;
     padding-top: 70px;
     background-image: url(images/shapes/about-me-bg.png);
     background-repeat: no-repeat;
     background-position: left;
     background-size: cover;
+    padding-bottom: 0;
 }
 
-.sec-left-clmn {
+.about-img {
     padding-left: 10%;
     width: 50%;
 }
 
-.sec-left-clmn img {
+.about-img img {
     width: 50%;
 }
 .contact-btn {
@@ -74,15 +75,15 @@ body {
     font-size: 25px;
 }
 
-.about-clmn h1 {
-    font-size: 70px;
+.about-content h1 {
+    font-size: 60px;
 }
 
-.about-clmn {
+.about-content {
     padding-top: 100px;
 }
 
-.about-clmn p {
+.about-content p {
     color: #000;
     padding-bottom: 40px;
     font-size: 25px;
