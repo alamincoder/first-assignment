@@ -101,7 +101,7 @@ nav ul li {
     padding: 20px 40px;
     color: #fff;
     border-radius: 40px;
-    font-size: 25px;
+    font-size: 16px;
 }
 
 .about-content h1 {
@@ -120,7 +120,7 @@ nav ul li {
 
 .recipies {
     text-align: center;
-    padding: 0 30% 2% 30%;
+    padding: 0 25% 2% 25%;
 }
 .recipies-sec {
     padding: 70px 0px;
@@ -132,6 +132,9 @@ nav ul li {
     padding-left: 3%;
     padding-right: 3%;   
    
+}
+.rcp-box {
+    line-height: 25px;
 }
 .rcp-box img {
     width: 100%;
@@ -147,6 +150,7 @@ nav ul li {
 .box-item p {
     padding-bottom: 30px;
     color: #000;
+    line-height: 20px;
 }
 .box-item h2 {
     padding-top: 20px;
