@@ -117,7 +117,34 @@ body {
 }
 .box-item p {
     padding-bottom: 30px;
+    color: #000;
 }
 .box-item h2 {
     padding-top: 20px;
+    color: #000;
+}
+
+.social-followers {
+    padding-left: 5%;
+    box-shadow: 10px 10px 30px #5f5b58;
+    margin: 02% 5%;
+    display: flex;
+}
+
+.followers {
+    width: 33%;
+    line-height: 7px;
+    padding: 2% 10%;
+}
+
+.followers h1 {
+    font-size: 50px;
+    padding: 0px;
+    margin-bottom: 30px;
+    color: #000;
+}
+
+.followers p {
+    font-size: 14px;
+    color: #000;
 }
