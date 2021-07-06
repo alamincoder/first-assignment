@@ -189,5 +189,6 @@ nav ul li {
 }
 
 .footer-section p {
-    color: #fff
+    color: #fff;
+    font-size: 14px;
 }
